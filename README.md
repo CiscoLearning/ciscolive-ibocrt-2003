@@ -19,5 +19,4 @@ Here you will find quick links to help get you prepped for all things DevNet Exp
 
 ## Discussion Topics
 
-We'll do our best to capture main points that were discussed during our session here.
-
+Notes can be found [here](notes.md).
