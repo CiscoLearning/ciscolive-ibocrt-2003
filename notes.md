@@ -16,11 +16,11 @@ Questions are generally independent.  Some design questions may build on each ot
 
 * What tips can you give to help us with the exam?
 
-    * Practice on the CWS and work to the blueprint in depth (meaning all of the sub-options)
-    * Practice and quize others
-    * Learn to read the documentation for each of the items in the software list.  Know their format and layout.
-    * Taking more than five minutes to read questions will hurt your overall chances to get through the exam
-    * Take time to read through the whole DTDM (five hour) part before you start to understand all of the high-level concepts being asked
+  * Practice on the CWS and work to the blueprint in depth (meaning all of the sub-options)
+  * Practice and quize others
+  * Learn to read the documentation for each of the items in the software list.  Know their format and layout.
+  * Taking more than five minutes to read questions will hurt your overall chances to get through the exam
+  * Take time to read through the whole DTDM (five hour) part before you start to understand all of the high-level concepts being asked
 
 * Constraints
 
@@ -33,8 +33,11 @@ As said above, in an expert-level exam, multiple choice, drag and drop, and matr
 Which HTTP verb is used by REST APIs to create a resource?
 
 A. POST
+
 B. GET
+
 C. PATCH
+
 D. PUT
 
 There is one right answer (A).  Now take an example expert-level design question:
@@ -42,8 +45,11 @@ There is one right answer (A).  Now take an example expert-level design question
 Which method will improve use experience?
 
 A. Deploy app in geographically disperse data centers to reduce latency
+
 B. Add more instances of the backend process to service more simultaneous requests
+
 C. Introduce a load balancer for the app frontend
+
 D. Use async API operations between the frontend and backend
 
 All the answers are plausible.  You won't know from the answers themselves which is right or which is wrong.  This is where those constraints come in and why question (or item) writing is considered an art.
@@ -61,10 +67,10 @@ Ansible played a huge part in the build of this exam.  We use over 6000 plays ea
 Some of what we did for DevNet Expert has been used in the Data Center track already (thanks to Ramses being involved in both).  We also learned a number of lessons from this build that we will take back to the exam team.
 
 * Grading
-    * **Code Hygiene**
-In general, the format of the code is not considered when grading.  We try and look at the product of the code rather than the code itself.  However, if the question specifically calls out elements of code style or a specific approach, that _will_ be graded.
+  * **Code Hygiene**
 
-    * **Differing input**
-Keep in mind that when we grade, we often switch the input from what is given to the candidate while taking the exam.  This ensures the code does what is expected and doesn't just hardcode assumptions based on the question input.  Focus on the question tasks and the constraints to know you did everything correctly.
-    
+    In general, the format of the code is not considered when grading.  We try and look at the product of the code rather than the code itself.  However, if the question specifically calls out elements of code style or a specific approach, that _will_ be graded.
 
+  * **Differing input**
+
+    Keep in mind that when we grade, we often switch the input from what is given to the candidate while taking the exam.  This ensures the code does what is expected and doesn't just hardcode assumptions based on the question input.  Focus on the question tasks and the constraints to know you did everything correctly.
