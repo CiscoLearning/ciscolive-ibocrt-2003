@@ -42,7 +42,7 @@ D. PUT
 
 There is one right answer (A).  Now take an example expert-level design question:
 
-Which method will improve use experience?
+Which method will improve user experience?
 
 A. Deploy app in geographically disperse data centers to reduce latency
 
